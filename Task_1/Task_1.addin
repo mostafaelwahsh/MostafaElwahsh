@@ -1,0 +1,18 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>Task_1</Name>
+        <Assembly>Task_1.dll</Assembly>
+        <AddInId>
+	        CCB09A41-8C47-4D38-9D22-526575DBD6F0
+		</AddInId>
+        <FullClassName>Task_1.Application.CreateFloor</FullClassName>
+        <Text>Create Floor</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>Mostafa Elwahsh</ContextName>
+    </ManifestSettings>
+</RevitAddIns>

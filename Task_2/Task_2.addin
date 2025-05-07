@@ -1,0 +1,16 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>Task_2</Name>
+        <Assembly>Task_2.dll</Assembly>
+        <AddInId>79F18651-4897-485E-904D-1EF9FBF43090</AddInId>
+        <FullClassName>Task_2.Application.Command</FullClassName>
+        <Text>Bathroom</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>Mostafa Elwahsh</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
