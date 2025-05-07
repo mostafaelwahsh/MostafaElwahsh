@@ -1,12 +1,12 @@
 ﻿<RevitAddIns>
     <AddIn Type="Command">
-        <Name>Task_2</Name>
-        <Assembly>Task_2.dll</Assembly>
+        <Name>Task_3</Name>
+        <Assembly>Task_3.dll</Assembly>
         <AddInId>
-	        11C19852-D8E3-48C3-BAB7-871BFD4A071A
+	        0C732894-0664-4344-8557-74F0DD198224
 		</AddInId>
-        <FullClassName>Task_2.Application.Command</FullClassName>
-        <Text>Bathroom</Text>
+        <FullClassName>Task_3.Application.Command</FullClassName>
+        <Text>Threshold</Text>
         <VendorId>Development</VendorId>
         <VendorDescription></VendorDescription>
         <VendorEmail></VendorEmail>
