@@ -1,0 +1,18 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>Task_4</Name>
+        <Assembly>Task_4.dll</Assembly>
+        <AddInId>
+	        C17C2122-D8CD-43D8-BDE1-805AF9EDC911
+		</AddInId>
+        <FullClassName>Task_4.Application.Command</FullClassName>
+        <Text>Wall Framing</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>Mostafa Elwahsh</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
